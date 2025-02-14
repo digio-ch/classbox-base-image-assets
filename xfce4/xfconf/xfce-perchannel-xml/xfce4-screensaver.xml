@@ -4,7 +4,7 @@
   <property name="saver" type="empty">
     <property name="idle-activation" type="empty">
       <!-- 1h -->
-      <property name="delay" type="int" value="1" />
+      <property name="delay" type="int" value="60" />
     </property>
   </property>
 </channel>
