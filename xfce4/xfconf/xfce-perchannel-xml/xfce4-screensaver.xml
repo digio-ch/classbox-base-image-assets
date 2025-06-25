@@ -3,8 +3,8 @@
 <channel name="xfce4-screensaver" version="1.0">
   <property name="saver" type="empty">
     <property name="idle-activation" type="empty">
-      <!-- 1h -->
-      <property name="delay" type="int" value="60" />
+      <!-- automatic logout after 4h of inactivity -->
+      <property name="delay" type="int" value="240" />
     </property>
   </property>
 </channel>
